@@ -1,2 +1,2 @@
 # Game
-## **By *tirthankar mittra.* **
+## **By** *tirthankar mittra.*
